@@ -29,9 +29,9 @@ nav ul a.active{border-bottom:2px solid #1a4eb5;padding-bottom:2px}
   display:flex;justify-content:space-between;align-items:center;padding:80px;}
 .hero-text{max-width:550px}
 .greeting{color:#f5a623;font:700 .85rem;letter-spacing:.15rem;margin-bottom:14px}
-.hero-text h1{font-size:4rem;font-weight:800;color:#fff;margin-bottom:10px}
-.subtitle{color:rgba(255,255,255,.6);margin-bottom:20px}
-.description{color:rgba(255,255,255,.75);line-height:1.7;margin-bottom:36px}
+.hero-text h1{font-size:2.5rem;font-weight:700px;color:#fff;margin-bottom:10px}
+.subtitle{color:#fff(255,255,255,.6);margin-bottom:20px}
+.description{color:#fff(255,255,255,.75);line-height:1.7;margin-bottom:36px}
 .hero-buttons{display:flex;gap:16px}
 .avatar-circle{width:260px;height:260px;border-radius:50%;background:rgba(255,255,255,.08);
   border:2px solid rgba(255,255,255,.2);display:flex;align-items:center;justify-content:center;
